@@ -89,6 +89,12 @@ ruby app.rb
 - GitHub: [brighton0102](htpps://github.com/brighton0102)
 - Twitter: [@brighton_ui](https://twitter.com/brighton_ui)
 
+👤 Faiz Mohammad
+
+GitHub: @githubhandle
+Twitter: @twitterhandle
+Linkdin: @linkdinhandle
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
