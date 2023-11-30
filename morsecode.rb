@@ -1,3 +1,31 @@
 # Method to decode a Morse code character, takes a string parameter,
 # and returns the corresponding character in uppercase
-
+def decode_message(code)
+  morse_code = {
+    '.-' => 'A',
+    '-...' => 'B',
+    '-.-.' => 'C',
+    '-..' => 'D',
+    '.' => 'E',
+    '..-.' => 'F',
+    '--.' => 'G',
+    '....' => 'H',
+    '..' => 'I',
+    '.---' => 'J',
+    '-.-' => 'K',
+    '.-..' => 'L',
+    '--' => 'M',
+    '-.' => 'N',
+    '---' => 'O',
+    '.--.' => 'P',
+    '--.-' => 'Q',
+    '.-.' => 'R',
+    '...' => 'S',
+    '-' => 'T',
+    '..-' => 'U',
+    '...-' => 'V',
+    '.--' => 'W',
+    '-..-' => 'X',
+    '-.--' => 'Y',
+    '--..' => 'Z'
+  }
