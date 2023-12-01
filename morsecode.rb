@@ -42,7 +42,7 @@ def morse_word_to_eng(word)
   new_word
 end
 
-def morse_sentese_to_eng(sentence)
+def morse_sentence_to_eng(sentence)
   words_arr = sentence.split
   new_sentence = ''
   words_arr.each do |word|
